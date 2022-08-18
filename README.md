@@ -1,2 +1,2 @@
 # hartmanns
-Hartmanns community centre website
+ReactJS, emailJS, Firebase
