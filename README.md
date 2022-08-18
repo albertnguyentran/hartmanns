@@ -1,2 +1,2 @@
 # hartmanns
-Hartmanns community centre website source code
+Hartmanns community centre website
